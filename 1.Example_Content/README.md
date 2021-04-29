@@ -6,7 +6,7 @@
 3. Use the FastQC tool to quality check our raw data.
 
 ## Tools required
-[FastQC][https://github.com/s-andrews/FastQC]
+\href[FastQC][https://github.com/s-andrews/FastQC]
 
 ## 1. Setting up directories
 
